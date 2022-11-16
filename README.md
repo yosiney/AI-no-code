@@ -7,14 +7,10 @@ The content is organized as follows:
 
 | file                 | Contents  |
 | -------------------- | --------- |
-| [examples/ruby](./examples/ruby) | Ejemplos y miniproyectos realizados con Ruby |
+| [](./examples/ruby) | Ejemplos y miniproyectos realizados con Ruby |
 | [examples](./examples) | Ejemplos y miniproyectos realizados con otros lenguajes |
 | [examples/comparative](./examples/comparative) | Reflexiones y comparativas |
 | [charlas](./charlas) | Charlas sobre diversos temas |
 
 ---
 
-# Otros proyectos relacionados
-
-Django:
-* [MVP - Minimum Viable Product](https://github.com/sdelquin/mvp): proyecto hecho con Django por `sdelquin`.

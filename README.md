@@ -7,7 +7,7 @@ The content is organized as follows:
 
 | file                 | Contents  |
 | -------------------- | --------- |
-| [Icons](./examples/ruby) | Ejemplos y miniproyectos realizados con Ruby |
+| [Icons](./Al-no-code/Icons) | here are all the icons used for this project |
 
 
 ---
